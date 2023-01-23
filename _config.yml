@@ -112,3 +112,6 @@ aplayer:
   style_cdn: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
   meting: true       # MetingJS 支持
   meting_cdn: https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js # 引用 Meting.js 外部 CDN 地址 (默认不开启)
+
+# map 插件
+google_maps_api_key: AIzaSyDsi5G92_xnqHvdxfF75hy-vYGNVsoq5PM
